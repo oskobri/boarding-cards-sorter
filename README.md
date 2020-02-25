@@ -4,12 +4,12 @@ composer install
 ```
 
 # Launch
-```php
+```shell script
 php index.php
 ```
 
 # Tests
-```php
+```shell script
 vendor/bin/phpunit
 ```
 
